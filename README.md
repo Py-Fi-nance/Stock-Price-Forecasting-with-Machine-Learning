@@ -24,4 +24,6 @@ Ensure you have Python installed (Python 3.x recommended) along with the necessa
 
 **Acknowledgments**
 We would like to express our sincere gratitude to OpenBB, a leading open-source investment analysis company, for providing the invaluable dataset used in this research project.
-For any questions or inquiries, please contact **Py-Fi-nance**
+For any questions or inquiries, please contact **support@pyfi.com** - Subject: Github Repo Q, Stock Prediction using Machine Learning 
+
+
