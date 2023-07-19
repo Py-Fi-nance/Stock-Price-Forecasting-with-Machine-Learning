@@ -24,7 +24,4 @@ Ensure you have Python installed (Python 3.x recommended) along with the necessa
 
 **Acknowledgments**
 We would like to express our sincere gratitude to OpenBB, a leading open-source investment analysis company, for providing the invaluable dataset used in this research project.
-
-**License**
-This project is licensed under the ....... Feel free to use, modify, and distribute the code for educational or research purposes.
-For any questions or inquiries, please contact .........
+For any questions or inquiries, please contact **Py-Fi-nance**
