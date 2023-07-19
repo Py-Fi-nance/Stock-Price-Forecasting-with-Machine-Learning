@@ -26,4 +26,6 @@ Ensure you have Python installed (Python 3.x recommended) along with the necessa
 We would like to express our sincere gratitude to OpenBB, a leading open-source investment analysis company, for providing the invaluable dataset used in this research project.
 For any questions or inquiries, please contact **support@pyfi.com** - Subject: Github Repo Q, Stock Prediction using Machine Learning 
 
+For full article walkthrough please visit > https://www.pyfi.com/blog/stock-price-forecasting-machine-learning < where you'll also be able to pick up a complimentary copy of the complete, Volume I text of our Machine Learning Edge Blueprint, a $49 value. This text will walk you through everything you need to get started coding Python for Finance
+
 
