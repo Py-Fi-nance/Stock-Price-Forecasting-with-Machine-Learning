@@ -2,6 +2,13 @@
 
 This repository contains Python code for stock price prediction using various Machine Learning models. We aim to forecast the closing price of Apple Inc. (AAPL) stock leveraging historical stock data and different machine-learning algorithms.
 
+![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[![Forks](https://img.shields.io/github/forks/Py-Fi-nance/Stock-Price-Forecasting-with-Machine-Learning)](https://github.com/Py-Fi-nance/Stock-Price-Forecasting-with-Machine-Learning/network)
+[![Stars](https://img.shields.io/github/stars/Py-Fi-nance/Stock-Price-Forecasting-with-Machine-Learning)](https://github.com/Py-Fi-nance/Stock-Price-Forecasting-with-Machine-Learning/stargazers)
+
 ## Table of Contents
 1. [Dataset](#dataset)
 2. [Model Overview](#model-overview)
@@ -40,3 +47,4 @@ To run the code and reproduce the results:
 We would like to express our sincere gratitude to OpenBB, a leading open-source investment analysis company, for providing the invaluable dataset used in this research project. For any questions or inquiries, please contact support@pyfi.com - Subject: Github Repo Q, Stock Prediction using Machine Learning
 
 For a full article walkthrough, please visit [our blog](https://www.pyfi.com/blog/stock-price-forecasting-machine-learning) where you'll also be able to pick up a complimentary copy of the complete, Volume I text of our Machine Learning Edge Blueprint, a $49 value. This text will walk you through everything you need to get started coding Python for Finance.
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/company/pyfi/)
