@@ -46,6 +46,6 @@ To run the code and reproduce the results:
 
 We would like to express our sincere gratitude to OpenBB, a leading open-source investment analysis company, for providing the invaluable dataset used in this research project. For any questions or inquiries, please contact support@pyfi.com - Subject: Github Repo Q, Stock Prediction using Machine Learning
 
-For a full article walkthrough, please visit [our blog](https://www.pyfi.com/blog/stock-price-forecasting-machine-learning) and learn more about PyFi's award winning Python for Finance courses which have been trusted by the top financial institutions in the United States and Canada multiple years running here >> https://go.pyfi.com/pyfi-courses << 
+For a full article walkthrough, please visit [our blog](https://www.pyfi.com/blog/stock-price-forecasting-machine-learning) and learn more about PyFi's award winning Python for Finance courses which have been trusted by the top financial institutions in the United States and Canada multiple years running here >> https://www.pyfi.com << 
 
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/company/pyfi/)
